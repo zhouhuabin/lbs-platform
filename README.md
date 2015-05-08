@@ -15,3 +15,6 @@ lbs-platform
     7.封装了Hessian的调用;
     8.封装了基于连接池的iBatis持久化;
     9.整理了支持自定义注解的实体基类ETBase;
+   10.增加了Redis3.0.0的cluster支持;
+   11.增加了Thrift的服务支持;
+   12.增加了对kafka的连接支持，consumer和producer基础类;
